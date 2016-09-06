@@ -174,7 +174,8 @@ class colaA{
                 nuevo.Contar();
                                
           
-                   System.out.println("karen moreira 5to b");          
+                   System.out.println("karen moreira 5to b");    
+                   System.out.println("facci");
     }
 }
 		
